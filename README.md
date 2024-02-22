@@ -1,3 +1,3 @@
 # React-gifApp
 
-This is the repository for de react-gifExpertApp 
+This is the repository for the react-gifExpertApp 
