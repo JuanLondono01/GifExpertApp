@@ -16,6 +16,11 @@ input {
     outline: none;
     padding: 10px 15px;
     width: 100%;
+    margin-bottom: 1rem;
+}
+
+input:focus {
+    border: 2px solid purple;
 }
 
 h2 {
@@ -25,7 +30,6 @@ h2 {
 h3 {
     font-size: 3rem;
     margin-bottom: 5px;
-
 }
 
 .card-grid {
@@ -63,8 +67,19 @@ h3 {
     width: 100%;
 }
 
-.title{
+.title {
     border: 1px solid;
-    margin-bottom: 1rem;
+    padding: 1%;
+    margin: 1rem;
+}
 
+.title h1 {
+    font-size: 2rem;
+    text-align: center;
+    width: fit-content;
+    margin-left: 43%;
+    background-color: lightblue;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
 }
